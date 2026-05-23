@@ -45,7 +45,7 @@ Users can create, edit, delete, and manage notes through a clean and responsive 
     <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/notesapp-home.png" 
+            path="assets/img/notes_app 2.png" 
             title="Notes App Homepage" 
             class="img-fluid rounded z-depth-1" %}
     </div>
