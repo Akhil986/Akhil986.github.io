@@ -83,7 +83,7 @@ Through this project, I gained experience with:
 
 ## GitHub Repository
 
-<a href="YOUR_GITHUB_LINK" target="_blank">
+<a href="https://github.com/Akhil986" target="_blank">
     View Project on GitHub
 </a>
 
@@ -91,6 +91,6 @@ Through this project, I gained experience with:
 
 ## Deployment
 
-<a href="YOUR_DEPLOYED_LINK" target="_blank">
+<a href="https://mern-notesapp-jc9n.onrender.com/" target="_blank">
     Live Demo
 </a>
