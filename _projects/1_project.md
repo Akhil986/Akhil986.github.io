@@ -13,7 +13,7 @@ A modern full-stack notes application built using the MERN stack.
 Users can create, edit, delete, and manage notes through a clean and responsive interface.
 
 ---
-
+- [Live Demo](https://mern-notesapp-jc9n.onrender.com/)
 ## Features
 
 - Create notes
@@ -84,4 +84,4 @@ Through this project, I gained experience with:
 ## Links
 
 - [GitHub Repository](https://github.com/Akhil986)
-- [Live Demo](https://mern-notesapp-jc9n.onrender.com/)
+
