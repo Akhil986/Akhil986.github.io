@@ -17,12 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -32,3 +32,5 @@ latest_posts:
 I have worked in HackCU as a Marketing Manager for a couple of months. Through my coursework and projects, I have gained experience in backend development by taking a Databases class amd Intro to sofware Dev. I have also explored my interest in ML by taking classes such as Intro to AI and Data Science.
 
 Outside of studying ,I like meeting people making friends. In my free time I like playing video games; I have played almost all Pokémon games, and recently got into shooter games such as Valorant and Deadlock, and also started playing Dark Souls and Minecraft. I also love watching anime and reading manga.
+## Projects 
+{% include projects.liquid %}
