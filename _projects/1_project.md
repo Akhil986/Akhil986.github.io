@@ -81,16 +81,7 @@ Through this project, I gained experience with:
 
 ---
 
-## GitHub Repository
+## Links
 
-<a href="https://github.com/Akhil986" target="_blank">
-    View Project on GitHub
-</a>
-
----
-
-## Deployment
-
-<a href="https://mern-notesapp-jc9n.onrender.com/" target="_blank">
-    Live Demo
-</a>
+- [GitHub Repository](https://github.com/Akhil986)
+- [Live Demo](https://mern-notesapp-jc9n.onrender.com/)
