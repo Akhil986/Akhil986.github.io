@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Notes app
+description: It is a Mern website that is used for making notes
 img: assets/img/12.jpg
 importance: 1
 category: work
