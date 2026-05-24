@@ -14,7 +14,7 @@ profile:
     #<p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -49,5 +49,19 @@ Outside of studying ,I like meeting people making friends. In my free time I lik
   </div>
 </div>
 
+<div style="display: flex; gap: 15px; margin-top: 10px;">
 
+  <a href="https://github.com/Akhil986" target="_blank">
+    GitHub
+  </a>
+
+  <a href="https://www.linkedin.com/in/ganesh-akhil-meduri-19088638a/" target="_blank">
+    LinkedIn
+  </a>
+
+  <a href="ganeshakhilmeduri@gmail.com">
+    Email
+  </a>
+
+</div>
 
