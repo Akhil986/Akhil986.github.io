@@ -428,6 +428,11 @@ ninja.data = [{
           description: "A full-stack MERN notes application with CRUD functionality",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-notes-app",
+          title: 'Notes App',
+          description: "A full-stack MERN notes application with CRUD functionality",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
