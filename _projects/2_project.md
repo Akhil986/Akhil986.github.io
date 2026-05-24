@@ -3,9 +3,10 @@
 layout: page
 title: SpotDrop
 description: A community-driven sports spot sharing platform with interactive maps and discussion forums
-img: assets/img/spotdrop-cover.png
+img: assets/img/3.jpg
 importance: 2
 category: work
+giscus_comments: true
 ---
 
 # SpotDrop
