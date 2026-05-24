@@ -32,5 +32,4 @@ latest_posts:
 I have worked in HackCU as a Marketing Manager for a couple of months. Through my coursework and projects, I have gained experience in backend development by taking a Databases class amd Intro to sofware Dev. I have also explored my interest in ML by taking classes such as Intro to AI and Data Science.
 
 Outside of studying ,I like meeting people making friends. In my free time I like playing video games; I have played almost all Pokémon games, and recently got into shooter games such as Valorant and Deadlock, and also started playing Dark Souls and Minecraft. I also love watching anime and reading manga.
-## Projects 
-{% include projects.liquid %}
+## Projects <div class="projects"> <div class="row row-cols-1 row-cols-md-2"> {% assign sorted_projects = site.projects | sort: "importance" %} {% for project in sorted_projects limit:2 %} {% include projects.liquid %} {% endfor %} </div> </div>
