@@ -1,81 +1,107 @@
+
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: SpotDrop
+description: A community-driven sports spot sharing platform with interactive maps and discussion forums
+img: assets/img/spotdrop-cover.png
 importance: 2
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# SpotDrop
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+SpotDrop is a full-stack web application that allows users to discover, share, and discuss sports locations through an interactive map interface. Users can upload and explore community-created sports spots for activities such as climbing, skating, skiing, parkour, and more.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+## My Role
+
+- Frontend Development
+- Backend Integration
+- UI/UX Design
+- Interactive Map Features
+
+---
+
+## Team Members
+
+- Your Name
+- Teammate Name
+- Teammate Name
+- Teammate Name
+
+---
+
+## Features
+
+- Interactive sports map
+- Add and share sports spots
+- Sport category filtering
+- Community discussion forum
+- Authentication system
+- Responsive UI
+- Real-time location discovery
+- OpenStreetMap integration
+
+---
+
+## Tech Stack
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Leaflet.js
+- OpenStreetMap
+- Tailwind CSS
+- JavaScript
+
+---
+
+## Project Preview
+
+<div class="row justify-content-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid 
+            loading="eager" 
+            path="assets/img/spotdrop-home.png" 
+            title="SpotDrop Homepage" 
+            class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Interactive map interface where users can discover and share sports locations across the city.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## What I Learned
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Through this project, I gained experience with:
 
-{% raw %}
+- Building map-based web applications
+- Working with geolocation data
+- Full-stack MERN development
+- Designing scalable backend APIs
+- Creating responsive user interfaces
+- Team collaboration using Git and GitHub
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+---
 
-{% endraw %}
+## Future Improvements
+
+- Real-time chat system
+- Spot ratings and reviews
+- Image uploads for locations
+- Mobile application support
+- Advanced search and filtering
+- Event organization system
+
+---
+
+## Links
+
+- [GitHub Repository](YOUR_GITHUB_REPO)
+- [Live Demo](YOUR_DEPLOYMENT_LINK)
+
