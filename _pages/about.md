@@ -33,7 +33,7 @@ I have worked in HackCU as a Marketing Manager for a couple of months. Through m
 
 Outside of studying ,I like meeting people making friends. In my free time I like playing video games; I have played almost all Pokémon games, and recently got into shooter games such as Valorant and Deadlock, and also started playing Dark Souls and Minecraft. I also love watching anime and reading manga.
 
-<h2 style="margin-top: 4rem;">Projects</h2>
+# Projects
 
 <div class="projects">
   <div class="grid">
