@@ -25,9 +25,10 @@ SpotDrop is a full-stack web application that allows users to discover, share, a
 ## Team Members
 
 - Your Name
-- Teammate Name
-- Teammate Name
-- Teammate Name
+- Brock Benton
+- Atharava Joshi
+- Alex Jost
+- Sam Kasten
 
 ---
 
@@ -63,7 +64,7 @@ SpotDrop is a full-stack web application that allows users to discover, share, a
     <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/spotdrop-home.png" 
+            path="assets/img/Spotdrop.png" 
             title="SpotDrop Homepage" 
             class="img-fluid rounded z-depth-1" %}
     </div>
@@ -92,15 +93,13 @@ Through this project, I gained experience with:
 
 - Real-time chat system
 - Spot ratings and reviews
-- Image uploads for locations
 - Mobile application support
-- Advanced search and filtering
-- Event organization system
+  
 
 ---
 
 ## Links
 
-- [GitHub Repository](YOUR_GITHUB_REPO)
-- [Live Demo](YOUR_DEPLOYMENT_LINK)
+- [GitHub Repository](https://github.com/Akhil986)
+- [Live Demo]([YOUR_DEPLOYMENT_LINK](https://csci3308-project-x51h.onrender.com/))
 
