@@ -1,78 +1,63 @@
-
 ---
 layout: page
-title: SpotDrop
-description: A community-driven sports spot sharing platform with interactive maps and discussion forums
-img: assets/img/3.jpg
-importance: 2
+title: Notes App
+description: A full-stack MERN notes application with CRUD functionality
+img: assets/img/notes_app 2.png
+importance: 1
 category: work
-giscus_comments: true
 ---
 
-# SpotDrop
+# MERN Notes App
 
-SpotDrop is a full-stack web application that allows users to discover, share, and discuss sports locations through an interactive map interface. Users can upload and explore community-created sports spots for activities such as climbing, skating, skiing, parkour, and more.
-
----
-
-## My Role
-
-- Frontend Development
-- Backend Integration
-- UI/UX Design
-- Interactive Map Features
+A modern full-stack notes application built using the MERN stack.  
+Users can create, edit, delete, and manage notes through a clean and responsive interface.
 
 ---
+## Links
 
-## Team Members
-
-- Your Name
-- Teammate Name
-- Teammate Name
-- Teammate Name
+- [GitHub Repository](https://github.com/Akhil986)
+- [Live Demo](https://mern-notesapp-jc9n.onrender.com/)
 
 ---
-
 ## Features
 
-- Interactive sports map
-- Add and share sports spots
-- Sport category filtering
-- Community discussion forum
-- Authentication system
+- Create notes
+- Edit existing notes
+- Delete notes
 - Responsive UI
-- Real-time location discovery
-- OpenStreetMap integration
+- REST API integration
+- MongoDB database storage
+- Toast notifications
+- React Router navigation
 
 ---
 
 ## Tech Stack
 
+- MongoDB
+- Express.js
 - React.js
 - Node.js
-- Express.js
-- MongoDB
-- Leaflet.js
-- OpenStreetMap
 - Tailwind CSS
-- JavaScript
+- DaisyUI
+- Axios
 
 ---
 
 ## Project Preview
 
 <div class="row justify-content-center">
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm-10 mt-3 mt-md-0">
         {% include figure.liquid 
             loading="eager" 
-            path="assets/img/spotdrop-home.png" 
-            title="SpotDrop Homepage" 
+            path="assets/img/notes_app 2.png" 
+            title="Notes App Homepage" 
             class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Interactive map interface where users can discover and share sports locations across the city.
+    Homepage of the MERN Notes App showing saved notes and clean UI design.
 </div>
 
 ---
@@ -81,28 +66,27 @@ SpotDrop is a full-stack web application that allows users to discover, share, a
 
 Through this project, I gained experience with:
 
-- Building map-based web applications
-- Working with geolocation data
-- Full-stack MERN development
-- Designing scalable backend APIs
-- Creating responsive user interfaces
-- Team collaboration using Git and GitHub
+- Building REST APIs using Express
+- Managing frontend state with React
+- Connecting frontend and backend using Axios
+- Using MongoDB for persistent storage
+- Full-stack deployment workflow
+- Component-based UI development
 
 ---
 
 ## Future Improvements
 
-- Real-time chat system
-- Spot ratings and reviews
-- Image uploads for locations
-- Mobile application support
-- Advanced search and filtering
-- Event organization system
+- User authentication
+- Dark mode
+- Categories and tags
+- Search functionality
+- Markdown support
+- Rich text editor
 
 ---
 
 ## Links
 
-- [GitHub Repository](YOUR_GITHUB_REPO)
-- [Live Demo](YOUR_DEPLOYMENT_LINK)
+- [GitHub Repository](https://github.com/Akhil986)
 
