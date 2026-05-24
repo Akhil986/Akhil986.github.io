@@ -83,7 +83,7 @@ Through this project, I gained experience with:
 - Image uploads for locations
 - Mobile application support
 - Advanced search and filtering
-- Event organization system
+
 ---
 
 ## Links
