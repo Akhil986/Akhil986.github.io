@@ -49,19 +49,18 @@ Outside of studying ,I like meeting people making friends. In my free time I lik
   </div>
 </div>
 
-<div style="display: flex; gap: 15px; margin-top: 10px;">
+<div style="display:flex; justify-content:center; gap:25px; margin-top:30px; font-size:28px;">
 
-  <a href="https://github.com/Akhil986" target="_blank">
-    GitHub
+  <a href="https://github.com/Akhil986" target="_blank" style="color:inherit;">
+    <i class="fab fa-github"></i>
   </a>
 
-  <a href="https://www.linkedin.com/in/ganesh-akhil-meduri-19088638a/" target="_blank">
-    LinkedIn
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank" style="color:inherit;">
+    <i class="fab fa-linkedin"></i>
   </a>
 
-  <a href="ganeshakhilmeduri@gmail.com">
-    Email
+  <a href="mailto:your@email.com" style="color:inherit;">
+    <i class="fas fa-envelope"></i>
   </a>
 
 </div>
-
