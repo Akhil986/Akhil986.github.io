@@ -58,12 +58,12 @@ Outside of studying ,I like meeting people making friends. In my free time I lik
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank" style="color:inherit; text-decoration:none;">
+  <a href="https://www.linkedin.com/in/ganesh-akhil-meduri-19088638a/" target="_blank" style="color:inherit; text-decoration:none;">
     <i class="fab fa-linkedin"></i>
   </a>
 
   <!-- Email -->
-  <a href="mailto:your@email.com" style="color:inherit; text-decoration:none;">
+  <a href="ganeshakhlmeduri@gmail.com" style="color:inherit; text-decoration:none;">
     <i class="fas fa-envelope"></i>
   </a>
 
