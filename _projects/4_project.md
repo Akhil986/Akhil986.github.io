@@ -101,5 +101,5 @@ Through this project, I gained experience with:
 ## Links
 
 - [GitHub Repository](https://github.com/Akhil986)
-- [Live Demo]([YOUR_DEPLOYMENT_LINK](https://csci3308-project-x51h.onrender.com/))
+- [Live Demo]((https://csci3308-project-x51h.onrender.com/))
 
