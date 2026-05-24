@@ -49,17 +49,20 @@ Outside of studying ,I like meeting people making friends. In my free time I lik
   </div>
 </div>
 
-<div style="display:flex; justify-content:center; gap:25px; margin-top:30px; font-size:28px;">
+<div style="display:flex; justify-content:center; gap:30px; margin-top:30px; font-size:28px;">
 
-  <a href="https://github.com/Akhil986" target="_blank" style="color:inherit;">
-    <i class="fab fa-github"></i>
+  <!-- GitHub (Font Awesome fallback usually works via MDB, but safest is text/icon mix) -->
+  <a href="https://github.com/Akhil986" target="_blank" style="color:inherit; text-decoration:none;">
+    <i class="ai ai-github"></i>
   </a>
 
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank" style="color:inherit;">
-    <i class="fab fa-linkedin"></i>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank" style="color:inherit; text-decoration:none;">
+    <i class="ai ai-linkedin"></i>
   </a>
 
-  <a href="mailto:your@email.com" style="color:inherit;">
+  <!-- Email -->
+  <a href="mailto:your@email.com" style="color:inherit; text-decoration:none;">
     <i class="fas fa-envelope"></i>
   </a>
 
