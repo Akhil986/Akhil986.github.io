@@ -1,15 +1,13 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /CV/
+title: CV
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+Last Updated: May 2026 
+For best viewing experience, open on desktop.
+<div style="margin-top:20px;"> 
+  <iframe src="/assets/pdf/cv.pdf" width="100%" height="1000px" style="border:none;"> </iframe> 
+</div>
