@@ -428,9 +428,9 @@ ninja.data = [{
           description: "A full-stack MERN notes application with CRUD functionality",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-notes-app",
-          title: 'Notes App',
-          description: "A full-stack MERN notes application with CRUD functionality",
+            },},{id: "projects-spotdrop",
+          title: 'SpotDrop',
+          description: "A community-driven sports spot sharing platform with interactive maps and discussion forums",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
