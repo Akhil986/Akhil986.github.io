@@ -49,16 +49,17 @@ Outside of studying ,I like meeting people making friends. In my free time I lik
   </div>
 </div>
 
+
 <div style="display:flex; justify-content:center; gap:30px; margin-top:30px; font-size:28px;">
 
-  <!-- GitHub (Font Awesome fallback usually works via MDB, but safest is text/icon mix) -->
+  <!-- GitHub -->
   <a href="https://github.com/Akhil986" target="_blank" style="color:inherit; text-decoration:none;">
-    <i class="ai ai-github"></i>
+    <i class="fab fa-github"></i>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/YOUR-LINK" target="_blank" style="color:inherit; text-decoration:none;">
-    <i class="ai ai-linkedin"></i>
+    <i class="fab fa-linkedin"></i>
   </a>
 
   <!-- Email -->
@@ -67,3 +68,5 @@ Outside of studying ,I like meeting people making friends. In my free time I lik
   </a>
 
 </div>
+
+
