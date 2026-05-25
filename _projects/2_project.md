@@ -18,7 +18,7 @@ SpotDrop is a full-stack web application that allows users to discover, share, a
 
 ---
 ## Team Members 
--Ganesh Akhil Meduri
+- Ganesh Akhil Meduri
 - Brock Benton
 - Sam 
 - Atharava
