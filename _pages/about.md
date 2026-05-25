@@ -29,7 +29,7 @@ latest_posts:
 
 **About me**: I am currently pursuing a Bachelor’s degree in Computer Science at the University of Colorado Boulder. I am interested in pursuing Machine Learning and robotics, which I plan to explore in upcoming semesters.
 
-I have worked in HackCU as a Marketing Manager for a couple of months. Through my coursework and projects, I have gained experience in backend development by taking a Databases class amd Intro to sofware Dev. I have also explored my interest in ML by taking classes such as Intro to AI and Data Science.
+I have worked in HackCU as a Marketing Manager for a couple of months. Through my coursework and projects, I have gained experience in backend development by taking a Databases class and Intro to sofware Dev. I have also explored my interest in ML by taking classes such as Intro to AI and Data Science.
 
 Outside of studying ,I like meeting people making friends. In my free time I like playing video games; I have played games like Pokémon  and recently  Valorant and Deadlock. I also love watching anime and reading manga.
 
