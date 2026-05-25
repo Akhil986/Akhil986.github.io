@@ -69,9 +69,7 @@ SpotDrop is a full-stack web application that allows users to discover, share, a
 
 Through this project, I gained experience with: 
 - Building map-based web applications
-- Working with geolocation data
 - Full-stack MERN development
-- Designing scalable backend APIs
 - Creating responsive user interfaces
 - Team collaboration using Git and GitHub
 ---
@@ -80,9 +78,6 @@ Through this project, I gained experience with:
 
 - Real-time chat system
 - Spot ratings and reviews
-- Image uploads for locations
-- Mobile application support
-- Advanced search and filtering
 
 ---
 
