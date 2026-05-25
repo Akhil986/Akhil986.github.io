@@ -78,11 +78,7 @@ Through this project, I gained experience with:
 ## Future Improvements
 
 - User authentication
-- Dark mode
-- Categories and tags
 - Search functionality
-- Markdown support
-- Rich text editor
 
 ---
 
